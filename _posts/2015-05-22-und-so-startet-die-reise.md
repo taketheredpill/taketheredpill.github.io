@@ -3,7 +3,7 @@ layout: post
 title: Und so startet die Reise
 ---
 
-*Eröffnungsbeitrag
+Warum gibt es diesen Blog?
 -----
 
 Seitdem ich denken kann, interessiere ich mich für wirtschaftliche Abläufe. Bereits in der Grundschule erklärte mir mein Vater witschaftliche Prinzipien, wie Preisbildung am Beispiel von Bäcker, Kunden und Mehl. Bis vor einigen Jahren mir trotz meines Interesses für dieses Thema manche Zusammenhänge - insbesondere in Bezug auf Geld (was ist Geld eigentlich?) - unklar, ohne dass ich dies bemerkte.
