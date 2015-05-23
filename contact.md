@@ -12,7 +12,7 @@ Feel free to contact me anytime. My email address is
 
 Please only send me encrypted mails. Here's the public key.
 
-{% highlight %}
+<code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQMuBFVgsZYRCADe6AF1kIEjKtcTZcLe7/fsvf/nR2nncuO/C7HN5hzJ3HnsCNKc
@@ -51,5 +51,4 @@ DAAKCRAb4Vqbh5+XiQsBAQC9RkRTyNfjzKPz8o4BS7WG8uc2yVBXmKyGlQMLO5WA
 2AEAoITIPh6/51QDhAdGvDUJZ8zJY3h0zSSUQMIqCrH5QB0=
 =V97d
 -----END PGP PUBLIC KEY BLOCK-----
-
-{% endhighlight %}
+</code>
