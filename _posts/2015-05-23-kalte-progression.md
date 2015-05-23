@@ -10,7 +10,7 @@ Es ist zwar schon drei Wochen her, aber ich hörte letztens im Radio, dass der d
 
 > "Ich schlage vor, dass wir das Problem der kalten Progression jetzt lösen" [...] Schäuble bezifferte die Kosten für die geplante Abschaffung der kalten Progression auf 1,5 Milliarden Euro. 
 
-Hierfür erntete er Zustimmung und Wohlwollen von Zahlreichen politischen Akteuren:
+Hierfür erntete er Zustimmung und Wohlwollen von zahlreichen politischen Akteuren:
 
 > Die jungen Unternehmer erklärten: "Auch Herr Schäuble hat nun verstanden, dass es keine Ausreden mehr gibt, warum die Abschmelzung der kalten Progression nicht möglich sein sollte."
 
@@ -41,7 +41,9 @@ Es bleibt einem eigentlich nichts anders übrig, als sich verarscht zu fühlen. 
 
 In Anbetracht der Tatsache, dass in den letzten 15 Jahren die Inflation in der Summe 25%[²](http://de.inflation.eu/inflationsraten/deutschland/historische-inflation/vpi-inflation-deutschland.aspx) betragen hat (man also um dieselbe Kaufkraft wie in 2000 zu haben heute 25% mehr verdienen muss) sind 37,50 Entlastung eine Frechheit.
 
-*Rechenbeispiel*: Ein alleinstehender Arbeitnehmer, der im Jahr 2000 Brutto 30.000 Euro verdient hat würde auf Grund der Inflation heute 37.500 Euro verdienen. Er hätte Netto in 2000 ca. 20.000 Euro zur Verfügung. In 2015 knapp 24.000 € (Inflationsbereinigt also 19.200 €). Dies entspricht einer Mehrbelastung von 800 (Jahr-2000)-€ also ungefähr 1.000 € mit heutiger Kaufkraft. Auch wenn etwas mehr als die Hälfte der Mehrbelastung durch höhere Sozialabgaben zustande kommmt reden wir immer noch von 400-500 € Mehrbelastung durch kalte Progression. Die von Schäuble vorgeschlagene Entlastung entspricht also nicht einmal 10% der tatsächlichen Mehrbelastung. Sie ist also wirklich nichts weiter als eine riesige Frechheit, die den Steuerzahlern als Wohltat verkauft wird.
+*Rechenbeispiel*: Ein alleinstehender Arbeitnehmer, der im Jahr 2000 Brutto 30.000 Euro verdient hat würde auf Grund der Inflation heute 37.500 Euro verdienen. Er hätte Netto in 2000 ca. 20.000 Euro zur Verfügung. In 2015 knapp 24.000 € (Inflationsbereinigt also 19.200 €). Dies entspricht einer Mehrbelastung von 800 (Jahr-2000)-€ also ungefähr 1.000 € mit heutiger Kaufkraft. Auch wenn etwas mehr als die Hälfte der Mehrbelastung durch höhere Sozialabgaben zustande kommmt reden wir immer noch von 400-500 € Mehrbelastung durch kalte Progression. 
+
+Die von Schäuble vorgeschlagene Entlastung entspricht also nicht einmal 10% der tatsächlichen Mehrbelastung. Sie ist also wirklich nichts weiter als eine riesige Frechheit, die den Steuerzahlern als Wohltat verkauft wird.
 
 Ein passendes Video zum Thema: [Stefan Molyneux - The Truth About Voting (YouTube)](https://www.youtube.com/watch?v=igbBItLemsM)
 
